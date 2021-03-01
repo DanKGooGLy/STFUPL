@@ -35,8 +35,8 @@ My answer is the following: What the fuck is wrong with you bro read the goddamn
 
 Here are more Q&As:
 
-Q: Why would I use this over another license (MIT, WTFPL, GPLv3, etc)
+Q: Why would I use this over another license (MIT, WTFPL, GPLv3, etc)  
 A: Shut the fuck up
 
-Q: Why would this be better than using no license at all?
+Q: Why would this be better than using no license at all?  
 A: Because shut the fuck up
