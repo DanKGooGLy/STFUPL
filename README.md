@@ -24,5 +24,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 <div align=center>
-  <code>Take the damn License and Shut the Fuck Up</code>
+  <p>Take the damn License and Shut the Fuck Up</p>
 </div>
