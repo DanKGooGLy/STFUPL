@@ -1,3 +1,3 @@
 <div align=center>
-`Take the damn License and Shut the Fuck Up`
+  <code>Take the damn License and Shut the Fuck Up<code>
 </div>
