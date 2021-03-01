@@ -26,3 +26,17 @@ SOFTWARE.
 <div align=center>
   <p>Take the damn License and Shut the Fuck Up</p>
 </div>
+
+## If you really need more fucking information, go ahead and read this shit
+
+You may be asking the following question: What may I do with this license in specific? 
+ 
+My answer is the following: What the fuck is wrong with you bro read the goddamn license you fucking neckbeard
+
+Here are more Q&As:
+
+Q: Why would I use this over another license (MIT, WTFPL, GPLv3, etc)
+A: Shut the fuck up
+
+Q: Why would this be better than using no license at all?
+A: Because shut the fuck up
